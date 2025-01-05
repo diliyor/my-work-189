@@ -1,0 +1,30 @@
+body {
+    background-color: grey;
+}
+.container {
+    background-color: black;
+    width: 350px;
+    height: 250px;
+    padding-top: 80px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-bottom: 30px;
+}
+.box1 {
+    background-color: aqua;
+    width: 410px;
+    height: 5px;
+}
+input {
+    width: 300px;
+    height: 40px;
+}
+button {
+    background-color: aqua;
+    color: white;
+    width: 310px;
+    height: 40px;
+}
+.block {
+    margin: 50px 50px 50px 50px;
+}
